@@ -9,7 +9,7 @@
 
 #4-4 One Million
     
-#for i in range(1,100000000):
+#for i in range(1,100000001):
     #print(i)
 
 # 4-5 Summing a Million
@@ -20,16 +20,16 @@
 
 # 4-6 Odd Numbers
 
-for i in range(1,21,2):
-    print(i)
+# for i in range(1,21,2):
+#     print(i)
 
 # 4-7 Threes
  
-for i in range(3,31,3):
-    multiples = i / 3
-    print(f'{int(multiples)} and 3 are the multiples of {i}')
+# for i in range(3,31,3):
+#     multiples = i / 3
+#     print(f'{int(multiples)} and 3 are the multiples of {i}')
 
-# 4-8
+# 4-8 Cubes
 
 for i in range(1,11):
     cubed = i**3
